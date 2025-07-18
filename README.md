@@ -113,7 +113,7 @@ O projeto está organizado da seguinte forma:
 **Rafael Schmidt Sampaio**  
 📧 Contato: rafaelssampaio@msn.com  
 🔗 LinkedIn: https://www.linkedin.com/in/rafael-schmidt-sampaio
-GitHub: https://github.com/rafaelssampaio79/Challenge-Telecom-X---Analise-de-evasao-de-clientes
+💾 GitHub: https://github.com/rafaelssampaio79/Challenge-Telecom-X---Analise-de-evasao-de-clientes
 
 ---
 
